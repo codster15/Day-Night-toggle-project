@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the mesmerizing Black and White Toggle Screen! 🚀 This project brings a touch of magic to your web experience with a seamless switch between dark and light modes. Built using HTML, CSS, and JavaScript, it's not just a toggle – it's a journey through contrasting realms! 🌈
 
-## Project live ->  [Project link](https://codster15.github.io/grid-responsive-web-page/)
+## Project live ->  [Project link](https://codster15.github.io/Day-Night-toggle-project/)
 
 ## Features
 - **Toggle Functionality** 🔄: Click on the central button to effortlessly switch between the enchanting black and pristine white UI modes.
